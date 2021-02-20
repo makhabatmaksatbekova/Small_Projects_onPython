@@ -11,5 +11,4 @@ def guess(x):
             print("Try again. Your number is too high.")
     print(f"You have got the correct number {random_number}!")
 
-   
 guess(10)
